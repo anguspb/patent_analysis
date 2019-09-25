@@ -1,0 +1,323 @@
+Behaviour,USPTO Category,Degree Centrality,Average Neighbour-Degree-Centrality,Average Eigenvector-Degree-Centrality
+Shotgun Connector,Stock material or miscellaneous articles,0.115942029,0.341130604,0.004620753
+Shotgun Connector,Stock material or miscellaneous articles,0.115942029,0.346978558,0.005120449
+Shotgun Connector,Stock material or miscellaneous articles,0.057971014,0.294346979,0.004357482
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.335282651,0.005082859
+Shotgun Connector,Stock material or miscellaneous articles,0.043478261,0.287524366,0.004335395
+Shotgun Connector,Stock material or miscellaneous articles,0.115942029,0.341130604,0.004620753
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.335282651,0.005082859
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.144927536,0.454191033,0.599965468
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.324561404,0.004925331
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.043478261,0.136452242,0.008726313
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.043478261,0.136452242,0.008726313
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.043478261,0.136452242,0.008726313
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.043478261,0.136452242,0.008726313
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.043478261,0.136452242,0.008726313
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.043478261,0.136452242,0.008726313
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.072463768,0.15497076,0.008848769
+Shotgun Connector,Coating processes,0.086956522,0.343079922,0.005129997
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.144927536,0.188109162,0.009664775
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.144927536,0.189083821,0.009690036
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.144927536,0.153996101,0.008722861
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.067251462,7.52E-07
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.115942029,0.164717349,0.009013557
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.130434783,0.487329435,0.677209042
+Shotgun Connector,Telephonic communications,0.043478261,0.076998051,0.000504027
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.057971014,0.398635478,0.721301867
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.043478261,0.385964912,0.709250772
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0.072463768,0.28460039,0.523294739
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.057971014,0.133528265,0.07367721
+Shotgun Connector,Resilient tires and wheels,0.014492754,0.022417154,1.59E-07
+Shotgun Connector,Adhesive bonding and miscellaneous chemical manufacture,0.014492754,0.022417154,1.59E-07
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0,0.315789474,0.602562446
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0.043478261,0.385964912,0.709250772
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.144927536,0.216374269,1.57E-05
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.130434783,0.202729045,1.49E-05
+Shotgun Connector,Surgery,0.028985507,0.270955166,0.011140193
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.188405797,0.599415205,1
+Shotgun Connector,Resilient tires and wheels,0.057971014,0.045808967,1.76E-07
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.054580897,1.83E-07
+Shotgun Connector,Wells,0.086956522,0.137426901,1.78E-05
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.043478261,0.056530214,1.55E-06
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.086956522,0.072124756,1.86E-06
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.115984405,6.12E-06
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.115984405,6.12E-06
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.043478261,0.056530214,1.55E-06
+Shotgun Connector,Wells,0.086956522,0.137426901,1.78E-05
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.144927536,0.216374269,1.57E-05
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.130434783,0.493177388,0.847165613
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Shotgun Connector,Surgery,0,0.115984405,6.12E-06
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.556530214,0.926203039
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.566276803,0.947732359
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.144927536,0.216374269,1.57E-05
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.057971014,0.104288499,0.071176531
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.130434783,0.328460039,0.117049439
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.101449275,0.412280702,0.650755194
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.144927536,0.216374269,1.57E-05
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.014492754,0.029239766,1.34E-06
+Shotgun Connector,Organic compounds -- part of the class 532-570 series,0,0.193957115,0.38164416
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.202898551,0.557504873,0.8601718
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.173913043,0.17251462,7.18E-05
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.057971014,0.063352827,1.65E-06
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.043478261,0.056530214,1.55E-06
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.043478261,0.056530214,1.55E-06
+Uninteresting,Electrical computers and digital processing systems: virtual machine task or process management or task management/control,0.173913043,0.393762183,0.001320677
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Surgery,0.072463768,0.326510721,0.012612204
+Shotgun Connector,Surgery,0.072463768,0.326510721,0.012612204
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.043478261,0.056530214,1.55E-06
+Shotgun Connector,Organic compounds -- part of the class 532-570 series,0.057971014,0.133528265,0.07367721
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.153021442,1.21E-05
+Shotgun Connector,Surgery,0.028985507,0.270955166,0.011140193
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.054580897,1.83E-07
+Shotgun Connector,Stock material or miscellaneous articles,0.086956522,0.054580897,1.83E-07
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.173913043,0.17251462,7.18E-05
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.173913043,0.17251462,7.18E-05
+Shotgun Connector,Wells,0.101449275,0.16374269,1.89E-05
+Shotgun Connector,Internal-combustion engines,0,0.09454191,1.30E-05
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.086956522,0.070175439,1.62E-06
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.086956522,0.070175439,1.62E-06
+Shotgun Connector,"Catalyst, solid sorbent, or support therefor: product or process of making",0.101449275,0.076998051,1.72E-06
+Shotgun Connector,Surgery,0.028985507,0.270955166,0.011140193
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.072463768,0.149122807,1.20E-05
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.130434783,0.456140351,0.669846379
+Shotgun Connector,Internal-combustion engines,0,0.09454191,1.30E-05
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Uninteresting,Electrophotography,0.173913043,0.391812865,0.001319789
+Shotgun Connector,Surgery,0.072463768,0.350877193,0.013893488
+Shotgun Connector,Surgery,0.072463768,0.350877193,0.013893488
+Shotgun Connector,Surgery,0.028985507,0.235867446,0.009817968
+Shotgun Connector,Mineral oils: processes and products,0.188405797,0.068226121,8.50E-06
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.101449275,0.435672515,0.706623115
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.260869565,0.413255361,0.005623632
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.260869565,0.413255361,0.005623632
+Uninteresting,Error detection/correction and fault detection/recovery,0.289855072,0.506822612,0.001434684
+Shotgun Connector,Wells,0.101449275,0.147173489,1.86E-05
+Shotgun Connector,Surgery,0.101449275,0.341130604,0.012832775
+Shotgun Connector,Mineral oils: processes and products,0.043478261,0.106237817,0.138378954
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Mineral oils: processes and products,0.057971014,0.121832359,0.148490383
+Shotgun Connector,Mineral oils: processes and products,0.188405797,0.068226121,8.50E-06
+Uninteresting,Chemistry of hydrocarbon compounds,0.202898551,0.415204678,0.066123134
+Uninteresting,Data processing: generic control systems or specific applications,0.246376812,0.49122807,0.001358934
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0.15942029,0.483430799,0.810221369
+Shotgun Connector,Surgery,0.028985507,0.279727096,0.011519614
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.072463768,0.153021442,0.000953384
+Shotgun Connector,Internal-combustion engines,0.043478261,0.140350877,1.57E-05
+Shotgun Connector,Mineral oils: processes and products,0.057971014,0.115984405,0.138854259
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0.173913043,0.54288499,0.720044856
+Uninteresting,Data processing: generic control systems or specific applications,0.231884058,0.445419103,0.001358943
+Shotgun Connector,Wells,0.086956522,0.137426901,1.78E-05
+Shotgun Connector,Adhesive bonding and miscellaneous chemical manufacture,0.086956522,0.038986355,1.73E-07
+Shotgun Connector,Plastic and nonmetallic article shaping or treating: processes,0.173913043,0.23294347,1.59E-05
+Shotgun Connector,Surgery,0.028985507,0.270955166,0.011140193
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.086956522,0.204678363,0.001023084
+Uninteresting,Electrophotography,0.31884058,0.470760234,0.001437432
+Shotgun Connector,Surgery,0.072463768,0.350877193,0.013893488
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.130434783,0.510721248,0.879799853
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.072463768,0.11208577,0.07571403
+Shotgun Connector,Wells,0.086956522,0.137426901,1.78E-05
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.130434783,0.116959064,1.87E-05
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.289855072,0.431773879,0.005871506
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.202898551,0.583820663,0.96585644
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.173913043,0.512670565,0.864066157
+Uninteresting,Organic compounds -- part of the class 532-570 series,0.550724638,0.725146199,0.262727184
+Uninteresting,Compositions,0.405797101,0.317738791,0.000120947
+Uninteresting,"Catalyst, solid sorbent, or support therefor: product or process of making",0.507246377,0.701754386,0.253274292
+Uninteresting,Chemistry of hydrocarbon compounds,0.275362319,0.307992203,0.316716648
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.289855072,0.431773879,0.005871506
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.086956522,0.409356725,0.72526641
+Uninteresting,Chemistry of hydrocarbon compounds,0.231884058,0.252436647,0.251910478
+Uninteresting,Chemistry of hydrocarbon compounds,0.492753623,0.67251462,0.248756003
+Uninteresting,Chemistry of hydrocarbon compounds,0.275362319,0.299220273,0.306669692
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.391304348,0.315789474,0.000120319
+Shotgun Connector,Surgery,0.086956522,0.352826511,0.013940404
+Uninteresting,Telephonic communications,0.304347826,0.384990253,0.001271372
+Uninteresting,Telephonic communications,0.31884058,0.38791423,0.001265612
+Uninteresting,Chemistry of inorganic compounds,0.15942029,0.40545809,0.088308768
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.362318841,0.458089669,0.005985861
+Shotgun Connector,Surgery,0.072463768,0.350877193,0.013893488
+Uninteresting,Telephonic communications,0.347826087,0.419103314,0.001279323
+Shotgun Connector,Surgery,0.086956522,0.356725146,0.013962802
+Uninteresting,Electrical computers and digital processing systems: virtual machine task or process management or task management/control,0.173913043,0.395711501,0.001319328
+Shotgun Connector,Wells,0.130434783,0.156920078,2.02E-05
+Shotgun Connector,Wells,0.130434783,0.147173489,1.95E-05
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.217391304,0.165692008,2.36E-05
+Shotgun Connector,Surgery,0.072463768,0.350877193,0.013893488
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.188405797,0.175438596,7.16E-05
+Uninteresting,Chemistry of hydrocarbon compounds,0.550724638,0.725146199,0.262727184
+Uninteresting,Telephonic communications,0.304347826,0.384990253,0.001271372
+Uninteresting,"Catalyst, solid sorbent, or support therefor: product or process of making",0.594202899,0.689083821,0.257998953
+Uninteresting,Chemistry of hydrocarbon compounds,0.492753623,0.460038986,0.452059436
+Uninteresting,Chemistry of hydrocarbon compounds,0.434782609,0.409356725,0.432145682
+Uninteresting,Chemistry of hydrocarbon compounds,0.434782609,0.409356725,0.432145682
+Uninteresting,Chemistry of hydrocarbon compounds,0.492753623,0.460038986,0.452059436
+Uninteresting,"Electrolysis: processes, compositions used therein, and methods of preparing the compositions",0.391304348,0.413255361,0.003729037
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Uninteresting,Fuel and related compositions,0.391304348,0.315789474,0.000120319
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.188405797,0.539961014,0.889807781
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.333333333,0.447368421,0.005947714
+Shotgun Connector,Wells,0.144927536,0.153021442,1.99E-05
+Shotgun Connector,Stock material or miscellaneous articles,0.130434783,0.061403509,1.88E-07
+Shotgun Connector,Chemistry of inorganic compounds,0.086956522,0.155945419,0.00248481
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.275362319,0.425925926,0.005782333
+Shotgun Connector,Chemistry of hydrocarbon compounds,0.130434783,0.10331384,0.184281502
+Uninteresting,Mineral oils: processes and products,0.492753623,0.445419103,0.440898548
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.217391304,0.584795322,0.885361613
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.115942029,0.091617934,1.74E-05
+Uninteresting,"Catalyst, solid sorbent, or support therefor: product or process of making",0.15942029,0.428849903,0.095468729
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.391304348,0.315789474,0.000120319
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0.115942029,0.460038986,0.764182292
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.130434783,0.159844055,0.000968189
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.173913043,0.14619883,2.14E-05
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0,0.001949318,5.42E-08
+Shotgun Connector,Organic compounds -- part of the class 532-570 series,0.217391304,0.165692008,2.36E-05
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.217391304,0.165692008,2.36E-05
+Shotgun Connector,Chemistry of inorganic compounds,0.057971014,0.139376218,0.002237977
+Uninteresting,Wells,0.507246377,0.326510721,3.05E-05
+Shotgun Connector,Fluid-pressure and analogous brake systems,0.115942029,0.20662768,0.000182043
+Uninteresting,Chemistry of hydrocarbon compounds,0.492753623,0.460038986,0.452059436
+Shotgun Connector,Chemistry of inorganic compounds,0.072463768,0.143274854,0.002266045
+Shotgun Connector,Chemistry of inorganic compounds,0.086956522,0.160818713,0.002429971
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.31884058,0.451267057,0.00601373
+Uninteresting,Organic compounds -- part of the class 532-570 series,0.565217391,0.728070175,0.264387292
+Uninteresting,Telephonic communications,0.289855072,0.367446394,0.00123151
+Uninteresting,Chemistry of hydrocarbon compounds,0.405797101,0.394736842,0.409426073
+Shotgun Connector,Multiplex communications,0.115942029,0.114035088,3.01E-06
+Shotgun Connector,Multiplex communications,0.101449275,0.091617934,2.47E-06
+Shotgun Connector,Chemistry of inorganic compounds,0.086956522,0.147173489,0.002297251
+Uninteresting,"Electrolysis: processes, compositions used therein, and methods of preparing the compositions",0.449275362,0.437621832,0.003946882
+Uninteresting,"Fabric (woven, knitted, or nonwoven textile or cloth, etc.)",0.376811594,0.407407407,0.00379789
+Uninteresting,Telephonic communications,0.333333333,0.389863548,0.001282213
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.043478261,0.007797271,0
+Shotgun Connector,Mineral oils: processes and products,0.086956522,0.155945419,0.002312099
+Uninteresting,Wells,0.434782609,0.29337232,2.76E-05
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.086956522,0.157894737,0.000158052
+Shotgun Connector,Surgery,0.217391304,0.155945419,6.62E-06
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.217391304,0.165692008,2.36E-05
+Uninteresting,Synthetic resins or natural rubbers -- part of the class 520 series,0.31884058,0.43957115,0.005855161
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.101449275,0.207602339,0.000207637
+Shotgun Connector,Fluid-pressure and analogous brake systems,0.115942029,0.179337232,0.000163462
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.101449275,0.207602339,0.000207637
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.101449275,0.207602339,0.000207637
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.057971014,0.012670565,8.99E-11
+Shotgun Connector,Surgery,0.115942029,0.357699805,0.013289607
+Uninteresting,Chemistry of hydrocarbon compounds,0.434782609,0.403508772,0.410247467
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.101449275,0.207602339,0.000207637
+Uninteresting,Chemistry: electrical and wave energy,0.347826087,0.392787524,0.003451325
+Uninteresting,Chemistry: electrical and wave energy,0.434782609,0.461988304,0.003581093
+Uninteresting,Chemistry: electrical and wave energy,0.362318841,0.434697856,0.003548102
+Uninteresting,Chemistry: electrical and wave energy,0.289855072,0.409356725,0.003230373
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.057971014,0.153996101,0.000166772
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.130434783,0.225146199,0.0002154
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.130434783,0.027290448,1.81E-10
+Uninteresting,Chemistry: electrical and wave energy,0.434782609,0.450292398,0.003553333
+Shotgun Connector,Chemistry of inorganic compounds,0.115942029,0.16374269,0.002543103
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.101449275,0.207602339,0.000207637
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.057971014,0.142300195,0.000157852
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.043478261,0.006822612,1.56E-11
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.086956522,0.148148148,0.000155573
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.086956522,0.148148148,0.000155573
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.057971014,0.153996101,0.000166772
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.028985507,0.135477583,0.000153212
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.057971014,0.011695906,9.01E-11
+Shotgun Connector,Fluid-pressure and analogous brake systems,0.072463768,0.174463938,0.000167818
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.086956522,0.080896686,1.51E-05
+Shotgun Connector,"Chemical apparatus and process disinfecting, deodorizing, preserving, or sterilizing",0.028985507,0.123781676,6.26E-06
+Uninteresting,Electrical computers and digital data processing systems: input/output,0.15942029,0.384015595,0.001313169
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Shotgun Connector,"Abrasive tool making process, material, or composition",0.15942029,0.217348928,1.58E-05
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Uninteresting,Facsimile and static presentation processing,0.246376812,0.416179337,0.001295671
+Shotgun Connector,Multiplex communications,0.072463768,0.083820663,2.39E-06
+Shotgun Connector,Multiplex communications,0.072463768,0.083820663,2.39E-06
+Shotgun Connector,Multiplex communications,0.217391304,0.139376218,4.75E-06
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.101449275,0,1.04E-05
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.043478261,0.19005848,0.000896358
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.260869565,0.575048733,0.957309467
+Shotgun Connector,Multiplex communications,0.072463768,0.083820663,2.39E-06
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.086956522,0.021442495,2.16E-10
+Shotgun Connector,Communications: radio wave antennas,0.043478261,0.025341131,7.27E-08
+Shotgun Connector,Multiplex communications,0.072463768,0.083820663,2.39E-06
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.043478261,0.19005848,0.000896358
+Shotgun Connector,Multiplex communications,0.072463768,0.083820663,2.39E-06
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Communications: radio wave antennas,0.086956522,0.046783626,8.40E-08
+Shotgun Connector,Communications: radio wave antennas,0.072463768,0.041910331,8.33E-08
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.144927536,0.218323587,0.000211855
+Shotgun Connector,Fluid-pressure and analogous brake systems,0.072463768,0.148148148,0.000150701
+Shotgun Connector,Communications: radio wave antennas,0.072463768,0.041910331,8.33E-08
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.057971014,0.012670565,1.50E-08
+Judicious Connector,"Drug, bio-affecting and body treating compositions",0.15942029,0.657894737,0.998984075
+Judicious Connector,Organic compounds -- part of the class 532-570 series,0.043478261,0.35380117,0.62597037
+Shotgun Connector,Fluid-pressure and analogous brake systems,0.072463768,0.167641326,0.000166943
+Shotgun Connector,"Fluid reaction surfaces (i.e., impellers)",0.057971014,0.010721248,1.57E-10
+Shotgun Connector,Surgery,0.086956522,0.367446394,0.01435032
+Shotgun Connector,Surgery,0.086956522,0.367446394,0.01435032
+Shotgun Connector,Surgery,0.101449275,0.384015595,0.014466245
+Shotgun Connector,Surgery,0.086956522,0.367446394,0.01435032
+Shotgun Connector,Surgery,0.028985507,0.259259259,0.01081218
+Shotgun Connector,Surgery,0.028985507,0.259259259,0.01081218
+Shotgun Connector,Surgery,0.115942029,0.372319688,0.01408816
+Shotgun Connector,Surgery,0.028985507,0.259259259,0.01081218
+Shotgun Connector,Synthetic resins or natural rubbers -- part of the class 520 series,0.057971014,0.201754386,0.000938628
+Shotgun Connector,Communications: radio wave antennas,0.072463768,0.041910331,8.33E-08
+Uninteresting,Telephonic communications,0.304347826,0.371345029,0.001225735
+Uninteresting,Mineral oils: processes and products,0.15942029,0.428849903,0.095468729
+Shotgun Connector,"Drug, bio-affecting and body treating compositions",0.144927536,0.165692008,7.11E-06
+Uninteresting,Telephonic communications,0.304347826,0.361598441,0.001224659
+Shotgun Connector,"Data processing: vehicles, navigation, and relative location",0.115942029,0.210526316,0.000208597
+Uninteresting,Coating processes,0.47826087,0.442495127,0.003928557
+Shotgun Connector,Communications: radio wave antennas,0.072463768,0.041910331,8.33E-08
+Uninteresting,Surgery,0.202898551,0.462962963,0.015192375
+Uninteresting,Mineral oils: processes and products,1,1,0.129773658
+Shotgun Connector,Communications: radio wave antennas,0.086956522,0.038986355,8.07E-08
+Shotgun Connector,Communications: radio wave antennas,0.086956522,0.044834308,8.48E-08
+Shotgun Connector,Communications: radio wave antennas,0.043478261,0.025341131,7.27E-08
+Shotgun Connector,Communications: radio wave antennas,0.072463768,0.041910331,8.33E-08
+Uninteresting,Error detection/correction and fault detection/recovery,0.420289855,0.530214425,0.001504721
+Shotgun Connector,"Solid anti-friction devices, materials therefor, lubricant or separant compositions for moving solid surfaces, and miscellaneous mineral oil compositions",0.289855072,0.189083821,2.86E-05
+Shotgun Connector,Chemistry of inorganic compounds,0.115942029,0.16374269,0.002543103
+Uninteresting,Error detection/correction and fault detection/recovery,0.304347826,0.464912281,0.00132157
